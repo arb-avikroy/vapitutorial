@@ -1,7 +1,6 @@
 # 🤖 Vapi AI Voice Agent - Interactive Tutorial
 
 [![Live Preview](https://img.shields.io/badge/Live-Preview-gold?style=for-the-badge&logo=html5)](https://htmlpreview.github.io/?https://github.com/arb-avikroy/vapitutorial/blob/main/vapi_interactive_tutorial.html)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-gold?style=for-the-badge)](https://www.adventurousinvestorhub.com)
 
 > An interactive, beautifully designed tutorial to build your own AI voice agent using Vapi - complete with step-by-step guidance, live demos, and hands-on examples.
